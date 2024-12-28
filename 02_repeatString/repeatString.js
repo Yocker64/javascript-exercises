@@ -8,7 +8,7 @@ const repeatString = function(str, times) {
             finalString += str;
         }
         return finalString;
-    };
+    }
     }
     
 
